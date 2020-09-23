@@ -1,14 +1,13 @@
 # Anotação Assistida de Dados Fisiológicos
 
+ISEL - Instituto Superior de Engenharia de Lisboa
 PRJ - Unidade Curricular de Projeto
 
-Aluno . Eduardo Fernando Ribeiro Santo A40610
+Aluno: Eduardo Fernando Ribeiro Santo A40610
 
 Proposta: 18
 
-ORIENTADOREs-ISEL: Rui Jesus; André Lourenço;
-
-ISEL - Instituto Superior de Engenharia de Lisboa
+Orientadores: Rui Jesus; André Lourenço;
  
 Resumo:
 Há alguns anos, pensava-se que a Inteligência artificial poderia ser usada

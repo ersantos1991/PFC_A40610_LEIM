@@ -1,0 +1,17 @@
+https://developer.android.com/training/location/change-location-settings
+https://developer.android.com/reference/android/app/Service#service-lifecycle
+https://flutter.dev/
+https://firebase.google.com/
+https://developer.android.com/guide/topics/connectivity/bluetooth-le
+http://hcigames.com/hci/biosignal-datasets-emotion-recognition/
+https://www.researchgate.net/publication/236229599_Tag_Clouds
+https://kotlinlang.org/
+https://www.adobe.com/pt/products/xd.html
+https://pulseon.com/company
+https://www.bluetooth.com/bluetooth-resources/intro-to-bluetooth-low-energy/
+https://reactnative.dev/
+https://ionicframework.com/
+https://www.bitalino.com
+https://doi.org/10.1155/2017/7261958
+https://www.bluetooth.com/bluetooth-resources/intro-to-bluetooth-low-energy/
+https://www.researchgate.net/profile/Rui_Jesus/publication/225212861_Methods_for_automatic_and_assisted_image_annotation/links/543d15ed0cf2c432f742491b.pdf

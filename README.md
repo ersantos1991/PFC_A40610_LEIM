@@ -3,11 +3,11 @@
 ISEL - Instituto Superior de Engenharia de Lisboa
 PRJ - Unidade Curricular de Projeto
 
-Aluno: Eduardo Fernando Ribeiro Santo A40610
+Aluno: Eduardo Fernando Ribeiro Santo - A40610
 
 Proposta: 18
 
-Orientadores: Rui Jesus; André Lourenço;
+Orientadores: Rui Jesus e André Lourenço
  
 Resumo:
 Há alguns anos, pensava-se que a Inteligência artificial poderia ser usada
